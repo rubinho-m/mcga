@@ -1,0 +1,15 @@
+{
+  "name": "mcga",
+  "version": "1.0.0",
+  "description": "Make Commits Great Again — Trump-style git commit messages for Claude Code",
+  "license": "MIT",
+  "author": "rubinho-m",
+  "homepage": "https://github.com/rubinho-m/mcga",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubinho-m/mcga.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rubinho-m/mcga/issues"
+  }
+}

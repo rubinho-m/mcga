@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mcga",
+  "description": "Make Commits Great Again — git commit messages in Donald Trump tweet style.",
+  "owner": {
+    "name": "rubinho-m",
+    "url": "https://github.com/rubinho-m"
+  },
+  "plugins": [
+    {
+      "name": "mcga",
+      "description": "Write git commit messages in Donald Trump tweet style. Always active, no command needed.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

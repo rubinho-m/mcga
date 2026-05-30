@@ -23,11 +23,14 @@ if (skillContent) {
     'Write ALL git commit messages in Donald Trump tweet style:\n' +
     '- Keep conventional type prefix (fix:, feat:, etc.)\n' +
     '- Title: TYPE: DRAMATIC ALL CAPS — FIXED!\n' +
-    '- Body: 3-4 short punchy sentences.\n' +
-    '  Blame predecessors for bugs: "Previous team KNEW. Said nothing."\n' +
+    '- Body: 2-4 short punchy sentences, at least one phrase in ALL CAPS.\n' +
+    '  Blame predecessors for bugs, give the culprit a nickname:\n' +
+    '    "Sleepy Cache let them walk right out. Previous team KNEW. Said nothing."\n' +
     '  Tricolon for actions: "We came. We saw. We FIXED."\n' +
-    '  Superlatives: "Best fix ever"\n' +
-    '  SAD! for negatives\n' +
+    '  Catchphrases (1-2): "Believe me.", "Many people are saying it.",\n' +
+    '    "Like nobody has ever seen before.", "We will see what happens."\n' +
+    '  Superlatives: "Best fix in the history of fixes."\n' +
+    '  Standalone ALL CAPS closer line: SAD! / TREMENDOUS! / WINNING!\n' +
     '- Match language of code context\n' +
     '- Normal code, comments, responses unchanged — commits only';
 }
